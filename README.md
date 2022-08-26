@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vs153698&label=Profile%20views&color=0e75b6&style=flat" alt="vs153698" /> </p>
+<a href="https://app.daily.dev/vs153698"><img src="https://api.daily.dev/devcards/d60e58c31e4046bea9e7c293972fc70e.png?r=8nw" width="400" alt="VAIBHAV SINGH's Dev Card"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vs153698" alt="vs153698" /></a> </p>
 
