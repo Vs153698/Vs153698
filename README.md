@@ -24,7 +24,7 @@
 <a href="https://instagram.com/iam___vaibhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam___vaibhav" height="30" width="40" /></a>
 </p>
 
-    <a float="left" href="https://app.daily.dev/vs153698"><img src="https://api.daily.dev/devcards/d60e58c31e4046bea9e7c293972fc70e.png?r=8nw" width="400" alt="VAIBHAV SINGH's Dev Card"/></a>
+    <a href="https://app.daily.dev/vs153698"><img src="https://api.daily.dev/devcards/d60e58c31e4046bea9e7c293972fc70e.png?r=8nw" width="400" alt="VAIBHAV SINGH's Dev Card"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
