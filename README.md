@@ -27,7 +27,7 @@
 </p>
   </div>
   <div>
-    <a href="https://app.daily.dev/vs153698"><img src="https://api.daily.dev/devcards/d60e58c31e4046bea9e7c293972fc70e.png?r=8nw" width="400" alt="VAIBHAV SINGH's Dev Card"/></a>
+    <a align="left" href="https://app.daily.dev/vs153698"><img src="https://api.daily.dev/devcards/d60e58c31e4046bea9e7c293972fc70e.png?r=8nw" width="400" alt="VAIBHAV SINGH's Dev Card"/></a>
   </div>
   </div>
 
