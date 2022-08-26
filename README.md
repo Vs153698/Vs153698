@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<div style="display:flex">
+<div float="left>
   
   <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vs153698&label=Profile%20views&color=0e75b6&style=flat" alt="vs153698" /> </p>
